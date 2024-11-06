@@ -1,0 +1,5 @@
+rootProject.name = 'openid-connect'
+
+include 'default-authorizationserver'
+include 'demo-client'
+include 'messages-resource'
